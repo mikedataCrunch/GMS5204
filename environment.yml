@@ -1,0 +1,33 @@
+name: deep-learning-env
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio
+  - ipykernel
+  - scikit-learn
+  - scikit-image
+  - seaborn
+  - shiny
+  - notebook
+  - conda-pack
+  - pip
+  - pip:
+    - jupyter-contrib-nbextensions
+    - ipywidgets
+    - mlflow
+    - wandb
+    - dask
+    - dash
+    - albumentations
+    - transformers
+    - huggingface_hub
+    - accelerate
