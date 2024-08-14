@@ -4,7 +4,7 @@ Scripts and notebooks used for GMS5204 lecture on deep learning and computer vis
 ## Set-up
 To run the notebooks, the set-up script can be run here:  
 
-<a target="_blank" href="https://colab.research.google.com/github/mikedataCrunch/GMS5204/notebooks/00_set_up_notebook.ipynb">
+<a target="_blank" href="https://github.com/mikedataCrunch/GMS5204/blob/main/notebooks/00_set_up_notebook.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Set Up In Colab"/>
 </a>
 
