@@ -20,3 +20,9 @@ To run the notebooks, click the corresponding links per notebook below:
 ## Directory structure
 - `media` contains input and output files i.e., images
 - `notebooks` contains the exercise notebooks that can be run via Google Colab
+
+## Other references and links
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- [Stanford Cheat Sheet CNNs](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [Stanford Cheat Sheet RNNs](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+- [The Animated Transformer](https://prvnsmpth.github.io/animated-transformer/)
