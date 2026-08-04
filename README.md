@@ -12,7 +12,7 @@ To run the notebooks, click the corresponding links per notebook below:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Notebook 04 - Anatomy of an Image (Demo): <a target="" href="https://colab.research.google.com/github/mikedataCrunch/GMS5204/blob/main/notebooks/04_image_anatomy.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- Notebook 05 - CNN operations: <a target="" href="https://colab.research.google.com/github/mikedataCrunch/GMS5204/blob/main/notebooks/05_convolution_operation.ipynb">
+- Notebook 05 - CNN operations: <a target="" href="https://colab.research.google.com/github/mikedataCrunch/GMS5204/blob/notebook01-refactor/notebooks/05_convolution_operation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Notebook 06 - Image Data augmentation: <a target="" href="https://colab.research.google.com/github/mikedataCrunch/GMS5204/blob/main/notebooks/06_data_augmentation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
