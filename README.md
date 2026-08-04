@@ -4,7 +4,7 @@ Scripts and notebooks used for GMS5204 lecture on deep learning and computer vis
 ## Set-up
 To run the notebooks, click the corresponding links per notebook below: 
 
-- Notebook 01 - Curve Fitting (with Exercise): <a target="" href="https://colab.research.google.com/github/mikedataCrunch/GMS5204/notebook01-refactor/main/notebooks/01_curve_fitting.ipynb">
+- Notebook 01 - Curve Fitting (with Exercise): <a target="" href="https://colab.research.google.com/github/mikedataCrunch/GMS5204/blob/notebook01-refactor/notebooks/01_curve_fitting.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Notebook 02 - Activation Functions (Demo notebook): <a target="" href="https://colab.research.google.com/github/mikedataCrunch/GMS5204/blob/main/notebooks/02_activation_functions.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
